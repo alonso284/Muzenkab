@@ -146,7 +146,7 @@ Right now, Muzenkab only allows you to exchange FWC Qatar 2022 stamps. However, 
 }
 ```
 
-## /editUser
+## /editUser POST
 
 ### form entries
 
@@ -167,7 +167,7 @@ Right now, Muzenkab only allows you to exchange FWC Qatar 2022 stamps. However, 
 | 400  | User Not Found |
 | 200  | User Info      |
 
-## /joinParty
+## /joinParty POST
 
 ## form entries
 
